@@ -1,0 +1,9 @@
+name: "Haley Oleynik"
+navbar:
+  title: "Haley Oleynik"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "CV"
+      href: collaborate.html
+output_dir: "."
