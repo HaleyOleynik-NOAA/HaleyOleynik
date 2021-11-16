@@ -1,5 +1,82 @@
 ---
-title: "CV"
+title: ""
 ---
 
-My CV
+### EDUCATION 
+
+#### **M.S. Marine Science**, July 2020
+*University of Delaware School of Marine Science and Policy, Lewes, DE*
+
+#### **B.A. Biology, Sociology**, May 2015 
+*Colby College, Waterville, ME* 
+
+### RESEARCH EXPERIENCE
+
+#### **Graduate Student and Research Assistant** (Sept. 2018 - July 2020)
+*School of Marine Science and Policy, University of Delaware*
+
+- Analyzed data from a long term trawl survey using multivariate statistical methods in R to explore changes in fish and invertebrate assemblages and overall community composition in Delaware Bay through time and identify physical and anthropogenic drivers of these changes
+
+- Assisted in lab and field work including marine animal husbandry, stable isotope analysis of highly migratory marine species, and respirometry of pelagic predators
+
+#### **Undergraduate Senior Honors Thesis** (Sept. 2014 - May 2015)
+Title: *Change and Adaptation in the Maine Lobster Fishing Industry*
+*Department of Sociology, Colby College*
+
+- Designed and conducted research on the societal impacts of the shifting lobster population and subsequent management on the Lobster fishing industry in Maine
+
+- Collected and analyzed quantitative and qualitative data to understand the social practices of the industry by focusing on the informal micro-level processes and perceptions of people situated at various points within the industry
+
+#### **Research Intern**	(June 2014 - Aug 2014)
+*CIEE Bonaire, Bonaire, Netherland Antilles*
+
+- Used SCUBA field sampling methods to catch invasive lionfish species, Pterois, and observe behavioral patterns
+
+- Dissected lionfish, assessed stomach contents, and analyzed results through Stata and Excel in order to explore the impact lionfish have on juvenile fish populations in Bonaire
+
+#### **Independent Study: Sea Urchin Interaction** (Feb 2014 - May 2014)
+*Department of Biology, Colby College*
+
+- Analyzed and curated data from over 100 scientific papers on sea urchin ecology to create a database that would further knowledge of sea urchin, macroalgae, and coral interactions
+
+#### **Research Intern**	(Jan 2013 - Feb 2013)
+*Smithsonian Natural History Museum, Washington D.C.*
+
+- Curated, identified, and photographed over 50 species of pteropoda to catalogue morphology for a new taxonomic database
+
+- Used Geneious and Excel to collect and analyze data for research of the genetics, morphology, and biogeographic information of pteropods to better understand ocean connectivity
+
+### PROFESSIONAL EXPERIENCE
+
+#### **2021 NOAA Sea Grant John A. Knauss Marine Policy Fellow** (Feb 2021 - Present)
+*National Stock Assessment Program, NOAA Fisheries*
+
+#### **Communications Team Member** (June 2015 - Present)
+*Association of the Marine Laboratories of the Caribbean*
+
+- Assist the Caribbean based nonprofit remotely with member relations, social media campaign, outreach, and marketing
+
+- Design, deliver, and analyze a biennial survey to gauge participation within the association and assess the AMLC scientific conferences in order to improve the quality of future conferences
+
+#### **North Pacific Groundfish Observer** (June 2016 – Jan 2018)
+*Saltwater Inc., Seattle, WA*
+
+- Collected data on catch, bycatch, and fishing effort on board commercial Alaskan fishing vessels to be used by the National Marine Fisheries Service to monitor fish populations, set catch limits, and manage the commercial Alaskan fisheries
+
+- Built and executed systematic random sample designs to collect species composition samples, sex/length samples, collect otoliths, and perform fish maturity scans
+
+
+### SKILLS AND QUALIFICATIONS
+
+**Computing:** Proficient in R, MS office, photoshop
+
+**Lab:** Marine animal husbandry including acclimation, feeding, and water quality maintenance; stable isotope analysis protocol; respirometry; spectroscopy; microscopy; cell imaging 
+
+**Field:** Small boat operation, survey techniques including transect and quadrat surveys, photo identification, systematic random field sampling, otolith collection
+
+**Diving:** AAUS Scientific Diver, SDI Rescue Diver, SDI Advanced Open Water, PADI Open Water
+
+
+
+
+

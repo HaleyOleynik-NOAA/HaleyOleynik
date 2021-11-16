@@ -6,4 +6,4 @@ Hi there, I'm Haley Oleynik! I'm currently a 2021 [NOAA Sea Grant Knauss Marine 
 
 I'm interested in quantitative fish ecology and my research includes marine community ecology, fisheries modeling, and quantitative fisheries management evaluation. 
 
-You can view my [CV](https://haleyoleynik-noaa.github.io/HaleyOleynik/collaborate.html) here, and my recent publications and presentations here.
+You can view my CV [here](https://haleyoleynik-noaa.github.io/HaleyOleynik/collaborate.html), and my recent publications and presentations here.
