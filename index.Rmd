@@ -2,4 +2,8 @@
 title: "Haley Oleynik"
 ---
 
-Hello, I am Haley Oleynik, a quantitative fish ecologist.
+Hi there, I'm Haley Oleynik! I'm currently a 2021 [NOAA Sea Grant Knauss Marine Policy Fellow](https://seagrant.noaa.gov/Knauss-Fellowship-Program) working with the [NOAA Fisheries](https://www.fisheries.noaa.gov/) Office of Science and Technology National Stock Assessment Program and a PhD student at the [University of British Columbia Institute for the Oceans and Fisheries](https://oceans.ubc.ca/).
+
+I'm interested in quantitative fish ecology and my research includes marine community ecology, fisheries modeling, and quantitative fisheries management evaluation. 
+
+You can view my [CV](https://haleyoleynik-noaa.github.io/HaleyOleynik/collaborate.html) here, and my recent publications and presentations here.
