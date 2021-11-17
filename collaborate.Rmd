@@ -2,7 +2,7 @@
 title: ""
 ---
 
-### EDUCATION 
+### Education 
 
 #### **M.S. Marine Science**, July 2020
 *University of Delaware School of Marine Science and Policy, Lewes, DE*
@@ -10,7 +10,7 @@ title: ""
 #### **B.A. Biology, Sociology**, May 2015 
 *Colby College, Waterville, ME* 
 
-### RESEARCH EXPERIENCE
+### Research Experience
 
 #### **Graduate Student and Research Assistant** (Sept. 2018 - July 2020)
 *School of Marine Science and Policy, University of Delaware*
@@ -46,7 +46,7 @@ Title: *Change and Adaptation in the Maine Lobster Fishing Industry*
 
 - Used Geneious and Excel to collect and analyze data for research of the genetics, morphology, and biogeographic information of pteropods to better understand ocean connectivity
 
-### PROFESSIONAL EXPERIENCE
+### Professional Experience
 
 #### **2021 NOAA Sea Grant John A. Knauss Marine Policy Fellow** (Feb 2021 - Present)
 *National Stock Assessment Program, NOAA Fisheries*
@@ -66,7 +66,7 @@ Title: *Change and Adaptation in the Maine Lobster Fishing Industry*
 - Built and executed systematic random sample designs to collect species composition samples, sex/length samples, collect otoliths, and perform fish maturity scans
 
 
-### SKILLS AND QUALIFICATIONS
+### Skills and Qualifications
 
 **Computing:** Proficient in R, MS office, photoshop
 

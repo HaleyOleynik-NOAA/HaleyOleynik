@@ -6,4 +6,6 @@ navbar:
       href: index.html
     - text: "CV"
       href: collaborate.html
+    - text: "Publications and Presentations"
+      href: Publications.html
 output_dir: "."
