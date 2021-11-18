@@ -1,7 +1,7 @@
 ---
 title: "Haley Oleynik (she/her)"
 ---
-### About me 
+## About me 
 
 Hi there, I'm Haley Oleynik! I'm currently a 2021 [NOAA Sea Grant Knauss Marine Policy Fellow](https://seagrant.noaa.gov/Knauss-Fellowship-Program) working with the [NOAA Fisheries](https://www.fisheries.noaa.gov/) Office of Science and Technology National Stock Assessment Program and a PhD student at the [University of British Columbia Institute for the Oceans and Fisheries](https://oceans.ubc.ca/).
 
@@ -14,7 +14,7 @@ My work in Alaska sparked my interest in fish population dynamics and lead me to
 You can view my CV [here](https://haleyoleynik-noaa.github.io/HaleyOleynik/collaborate.html), and my recent publications and presentations here.
 
 
-### Contact me 
+## Contact me 
 |  |  | 
 | ------------ | -------------- | 
 | **Personal Email:** | haleyoleynik@gmail.com | 
