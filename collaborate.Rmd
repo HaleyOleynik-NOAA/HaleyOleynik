@@ -2,6 +2,19 @@
 title: ""
 ---
 
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+if (!require(librarian)){
+  install.packages("librarian")
+  library(librarian)
+}
+shelf(
+  htmltools, mitchelloharawild/icons)
+# icons::download_fontawesome()
+# devtools::load_all("~/github/bbest/icons")
+# icons::download_octicons()
+```
+
 ### Education 
 
 #### **M.S. Marine Science**, July 2020
