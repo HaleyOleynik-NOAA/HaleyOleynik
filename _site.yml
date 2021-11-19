@@ -1,6 +1,6 @@
 name: "Haley Oleynik"
 navbar:
-  title: "HALEY OLEYNIK"
+  title: "Haley Oleynik"
   left:
     - text: "Home"
       icon: fa-fish
@@ -19,9 +19,9 @@ navbar:
 output_dir: "."
 output:
   html_document:
-    theme: yeti
+    theme: journal
     highlight: textmate
-    css: styles.css
+    #css: style.css
     fig_caption: true
     toc: true
     toc_float: true
