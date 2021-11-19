@@ -2,8 +2,6 @@
 title: ""
 ---
 
-## How I built this website.. and other interesting things 
+## How I built this website... and other helpful info 
 
-I built this website using RStudio and GitHub! 
-
-> A short tutorial on how to do this coming soon...
+> A short tutorial on how I built this website using Rstudio and GitHub this coming soon...
