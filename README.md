@@ -6,14 +6,15 @@ More R Markdown Website resources:
 - [Pimp my RMD](https://holtzy.github.io/Pimp-my-rmd/#text_formating)
 - [Rmarkdown's site generator](https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html)
 - [Rmarkdown websites](https://rmarkdown.rstudio.com/lesson-13.html)
+- [Building a website with RMarkdown](https://ryanpeek.org/rmarkdown_web_demo/index.html#building_a_website_from_rmarkdown_files)
+- [BUILDING THIS SITE WITH RSTUDIO AND RMARKDOWN](http://robertmitchellv.com/blog-building-site-with-rmarkdown.html)
 
 Themes: 
 - `cosmo`
 - `united` 
 
 Color: 
-- Black: `highlight: textmate`
-- Orange: `highlight: pygments`
+- `highlight: textmate`
 
 [Icon Gallery](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
 - Search icon 
