@@ -6,3 +6,11 @@ More R Markdown Website resources:
 - [Pimp my RMD](https://holtzy.github.io/Pimp-my-rmd/#text_formating)
 - [Rmarkdown's site generator](https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html)
 - [Rmarkdown websites](https://rmarkdown.rstudio.com/lesson-13.html)
+
+Themes: 
+- `cosmo`
+- `united` 
+
+Color: 
+- Black: `highlight: textmate`
+- Orange: `highlight: pygments`
