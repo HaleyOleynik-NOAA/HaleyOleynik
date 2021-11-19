@@ -12,8 +12,7 @@ Themes:
 - `united` 
 
 Color: 
-- Black: `highlight: textmate`
-- Orange: `highlight: pygments`
+- `highlight: textmate`
 
 [Icon Gallery](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
 - Search icon 
