@@ -9,7 +9,12 @@ More R Markdown Website resources:
 - [Building a website with RMarkdown](https://ryanpeek.org/rmarkdown_web_demo/index.html#building_a_website_from_rmarkdown_files)
 - [BUILDING THIS SITE WITH RSTUDIO AND RMARKDOWN](http://robertmitchellv.com/blog-building-site-with-rmarkdown.html)
 
-[Themes](https://bootswatch.com/)
+[Theme gallery](https://bootswatch.com/)
+
+Themes should be one of the following: 
+```
+“default”, “bootstrap”, “cerulean”, “cosmo”, “darkly”, “flatly”, “journal”, “lumen”, “paper”, “readable”, “sandstone”, “simplex”, “spacelab”, “united”, “yeti”
+```
 
 Color: 
 - `highlight: textmate`
@@ -17,3 +22,4 @@ Color:
 [Icon Gallery](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
 - Search icon 
 - Use `fa-twitter` in `yml`
+
