@@ -3,14 +3,23 @@ navbar:
   title: "Haley Oleynik"
   left:
     - text: "Home"
-      icon: fa-fish
+      icon: fa-water
       href: index.html
     - text: "CV"
       icon: fa-paperclip
       href: collaborate.html
-    - text: "Publications and Presentations"
-      icon: fa-copy
-      href: Publications.html
+    - text: "Research"
+      icon: fa-fish
+      menu:
+        - text: "Publications"
+          icon: fa-copy
+          href: Publications.html
+        - text: "Presentations"
+          icon: fa-file-powerpoint 
+          href: Presentations.html
+    - text: "Contact"
+      icon: fa-at
+      href: Contact.html
   right:
     - icon: fa-github fa-lg
       href: https://github.com/haleyoleynik-noaa     
