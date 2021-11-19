@@ -1,0 +1,9 @@
+---
+title: ""
+---
+
+## How I built this website.. and other interesting things 
+
+I built this website using RStudio and GitHub! 
+
+> A short tutorial on how to do this coming soon...

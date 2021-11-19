@@ -25,6 +25,8 @@ navbar:
       href: https://github.com/haleyoleynik-noaa     
     - icon: fa-twitter fa-lg
       href: https://twitter.com/fish_follower       
+    - icon: fa-info-circle fa-la
+      href: info.html 
 output_dir: "."
 output:
   html_document:
