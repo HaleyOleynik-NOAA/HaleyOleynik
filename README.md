@@ -14,3 +14,5 @@ Themes:
 Color: 
 - Black: `highlight: textmate`
 - Orange: `highlight: pygments`
+
+[Icons](https://ropensci.org/blog/2018/05/15/icon/)
