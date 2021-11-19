@@ -9,9 +9,7 @@ More R Markdown Website resources:
 - [Building a website with RMarkdown](https://ryanpeek.org/rmarkdown_web_demo/index.html#building_a_website_from_rmarkdown_files)
 - [BUILDING THIS SITE WITH RSTUDIO AND RMARKDOWN](http://robertmitchellv.com/blog-building-site-with-rmarkdown.html)
 
-Themes: 
-- `cosmo`
-- `united` 
+[Themes](https://bootswatch.com/)
 
 Color: 
 - `highlight: textmate`
