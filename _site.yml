@@ -3,7 +3,7 @@ navbar:
   title: "Haley Oleynik"
   left:
     - text: "Home"
-      icon: fa-water
+      icon: fa-ship
       href: index.html
     - text: "CV"
       icon: fa-paperclip
