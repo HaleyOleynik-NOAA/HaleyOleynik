@@ -2,6 +2,8 @@
 title: "Haley Oleynik (she/her)"
 ---
 
+<img align="right" src="./images/picwithfish.jpg" width="400" alt="NOAA Fisheries">  
+
 ## About me 
 
 Hi there, I'm Haley Oleynik! I'm currently a 2021 [NOAA Sea Grant Knauss Marine Policy Fellow](https://seagrant.noaa.gov/Knauss-Fellowship-Program) working with the [NOAA Fisheries Office of Science and Technology](https://www.fisheries.noaa.gov/about/office-science-and-technology) National Stock Assessment Program and a PhD student at the [University of British Columbia Institute for the Oceans and Fisheries](https://oceans.ubc.ca/).
@@ -12,5 +14,5 @@ After graduating Colby I worked as a [North Pacific Groundfish Observer](https:/
 
 My work in Alaska sparked my interest in fish population dynamics and lead me to pursue my Master's at the University of Delaware. My Master's research focused on fish community dynamics and associated environmental drivers in the Delaware Bay using a long-term, state run trawl survey.
 
-![](./images/picwithfish.jpg)
+![](./images/Alaska2.jpeg)
 
