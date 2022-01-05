@@ -2,7 +2,7 @@
 title: "Haley Oleynik (she/her)"
 ---
 
-<img align="right" src="./images/picwithfish.jpg" width="400" alt="NOAA Fisheries">  
+<img align="right" src="./images/IMG_5550.JPG" width="400" alt="NOAA Fisheries">  
 
 ## About me 
 
@@ -14,5 +14,6 @@ After graduating Colby I worked as a [North Pacific Groundfish Observer](https:/
 
 My work in Alaska sparked my interest in fish population dynamics and lead me to pursue my Master's at the University of Delaware. My Master's research focused on fish community dynamics and associated environmental drivers in the Delaware Bay using a long-term, state run trawl survey.
 
+![](./images/picwithfish.jpg)
 ![](./images/Alaska2.jpeg)
 
