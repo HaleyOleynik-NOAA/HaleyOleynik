@@ -20,12 +20,19 @@ shelf(
 #### **M.S. Marine Science**, July 2020
 *University of Delaware School of Marine Science and Policy, Lewes, DE*
 
-#### **B.A. Biology, Sociology**, May 2015 
+#### **B.A. Biology and Sociology**, May 2015 
 *Colby College, Waterville, ME* 
 
 ## Research Experience
 
-#### **Graduate Student and Research Assistant** 
+#### **PhD Student** 
+*Institute for the Oceans and Fisheries, UBC* (Sept. 2020 - Present)
+
+- Working on fish population dynamics, Bayesian stock assessment, quantitative management evaluation. More info about my thesis research to come... 
+
+- Funded by a [UBC 4 Year Doctoral Fellowship (4YF)](https://www.grad.ubc.ca/awards/four-year-doctoral-fellowship-4yf)
+
+#### **Master's student and Research Assistant** 
 *School of Marine Science and Policy, University of Delaware* (Sept. 2018 - July 2020)
 
 - Analyzed data from a long term trawl survey using multivariate statistical methods in R to explore changes in fish and invertebrate assemblages and overall community composition in Delaware Bay through time and identify physical and anthropogenic drivers of these changes
@@ -63,7 +70,7 @@ Title: *Change and Adaptation in the Maine Lobster Fishing Industry*
 ## Professional Experience
 
 #### **2021 NOAA Sea Grant John A. Knauss Marine Policy Fellow**
-*National Stock Assessment Program, NOAA Fisheries* (Feb 2021 - Present)
+*National Stock Assessment Program, NOAA Fisheries* (Feb 2021 - Feb 2022)
 
 #### **Communications Team Member** 
 *Association of the Marine Laboratories of the Caribbean* (June 2015 - Present)
